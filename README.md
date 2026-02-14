@@ -1,7 +1,4 @@
-# mrvl-team.github.io
-Repo hosting the official website for M+RVL (Mechanisms of Positive-Strand RNA Virus Laboratory).
-
-# M+RVL Lab Website: Quarto Setup Tutorial
+# M+RVL Lab Website: Quarto Setup and Editing Tutorial
 
 ### **1. Prerequisites**
 Ensure the following are installed locally:
