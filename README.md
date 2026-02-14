@@ -1,2 +1,2 @@
 # mrvl-team.github.io
-Official website for M+RVL (Mechanisms of Positive-Strand RNA Virus Laboratory).
+Repo hosting the official website for M+RVL (Mechanisms of Positive-Strand RNA Virus Laboratory).
